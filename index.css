@@ -1,0 +1,8 @@
+   .carousel {
+    height: 66.67%;
+    margin-bottom: 0; /* ¿por qué, carousel, por qué? */
+  }
+  .carousel-inner img {
+    width: 100%;
+    max-height: 460px;
+}
